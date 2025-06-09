@@ -1,4 +1,4 @@
-package com.siri.chandana.calculator.config;
+package com.siva.anjuri.calculator.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

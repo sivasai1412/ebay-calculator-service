@@ -1,7 +1,7 @@
-package com.siri.chandana.calculator.helper;
+package com.siva.anjuri.calculator.helper;
 
-import com.siri.chandana.calculator.model.CalculatorHistory;
-import com.siri.chandana.calculator.model.Operation;
+import com.siva.anjuri.calculator.model.CalculatorHistory;
+import com.siva.anjuri.calculator.model.Operation;
 
 import java.time.LocalDateTime;
 

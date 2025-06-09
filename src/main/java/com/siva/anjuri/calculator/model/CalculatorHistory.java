@@ -1,4 +1,4 @@
-package com.siri.chandana.calculator.model;
+package com.siva.anjuri.calculator.model;
 
 import jakarta.persistence.*;
 

@@ -1,7 +1,7 @@
-package com.siri.chandana.calculator.strategy.impl;
+package com.siva.anjuri.calculator.strategy.impl;
 
-import com.siri.chandana.calculator.model.Operation;
-import com.siri.chandana.calculator.strategy.OperationStrategy;
+import com.siva.anjuri.calculator.model.Operation;
+import com.siva.anjuri.calculator.strategy.OperationStrategy;
 import org.springframework.stereotype.Component;
 
 @Component

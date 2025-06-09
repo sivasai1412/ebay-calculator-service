@@ -1,6 +1,6 @@
-package com.siri.chandana.calculator.strategy;
+package com.siva.anjuri.calculator.strategy;
 
-import com.siri.chandana.calculator.model.Operation;
+import com.siva.anjuri.calculator.model.Operation;
 
 public interface OperationStrategy {
     Operation getOperationType();

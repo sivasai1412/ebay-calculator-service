@@ -1,6 +1,6 @@
-package com.siri.chandana.calculator.dto;
+package com.siva.anjuri.calculator.dto;
 
-import com.siri.chandana.calculator.model.Operation;
+import com.siva.anjuri.calculator.model.Operation;
 
 public class OperationRequest {
 
